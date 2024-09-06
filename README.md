@@ -45,3 +45,7 @@ You can configure VSCode yaml-language-server with this schemas to ease configur
 ```yaml
 # yaml-language-server: $schema=https://gist.githubusercontent.com/ochaton/24957db1617df119b30b5e7cec05e3cf/raw/cf498e23928eefad2cf31748a369a8fa124166f2/config.schema-3.3.0.json
 ```
+
+## Acknowledgements
+
+To @Totktonada for the script and inspiration for this script
